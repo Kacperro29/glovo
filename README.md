@@ -1,7 +1,6 @@
 # glovo
 Projekt aplikacji do zamawiania jedzenia
 
-```markdown
 # Reginexpress
 ## Autor pliku: Kacper Kalembasa
 ## Wersja dokumentu: 2.0 
